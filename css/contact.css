@@ -3,6 +3,12 @@ body {
     margin: 0;
     background-color: #dde0ab;
 }
+h1 {
+    font-family: 'Sacramento', serif;
+}
+p {
+    font-family: 'Montserrat', serif;
+}
 hr {
     border-top: 3px dashed #668ba4;
     border-radius: 1px;
